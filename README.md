@@ -17,6 +17,6 @@ How to run this system
 
  Open cmd inside the folder
 
--Run streamlit run org2.py
+-Run streamlit run app.py
 
 -Open the local URL: http://localhost:8501 in your browser
