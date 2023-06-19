@@ -29,6 +29,8 @@ This is the graphical user interface shown below:
 
 The following diagram shows how the system reponds if a tobacco leaf is uploaded:
 
+![image](https://github.com/MidziT/Grading-Web-Application-using-Streamlit-python/assets/86081631/df49beea-eb49-491e-b406-63afb0feb179)
+
 
 
 
