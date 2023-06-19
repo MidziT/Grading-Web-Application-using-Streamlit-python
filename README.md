@@ -21,7 +21,7 @@ How to run this system
 
 -Open the local URL: http://localhost:8501 in your browser
 
-![image](https://github.com/MidziT/Grading-Web-Application-using-Streamlit-python/assets/86081631/2f269db7-9284-4844-9deb-1632382f03db)
+![Uploading image.png…]()
 
 The system uses two methods for capturing an image from the user, it uses file uploader and a web cam.
 
